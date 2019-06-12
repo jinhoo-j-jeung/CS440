@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b928f44-680d-4aec-97ce-b3ea9fff5e90" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Pong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pong.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mp4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mp4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mp4/BehavioralCloning.py" beforeDir="false" afterPath="$PROJECT_DIR$/mp4/BehavioralCloning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.5" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3.5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/easy-install.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/EGG-INFO/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/EGG-INFO/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/EGG-INFO/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/EGG-INFO/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/EGG-INFO/not-zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/EGG-INFO/requires.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/EGG-INFO/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/_cmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/caches/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/filewrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/colorama/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/colorama/ansi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/colorama/initialise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/colorama/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/colorama/winterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/_backport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/_backport/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/_backport/shutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/_backport/tarfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/manifest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/resources.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/scripts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/t32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/t64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/w32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/w64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distlib/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/distro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/_ihatexml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/_inputstream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/_trie/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/_trie/_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/_trie/datrie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/_trie/py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/filters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/filters/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/filters/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/filters/optionaltags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/filters/sanitizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/filters/whitespace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/html5parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treeadapters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treeadapters/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treeadapters/sax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treebuilders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treebuilders/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treebuilders/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treebuilders/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/html5lib/treewalkers/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/ipaddress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/lockfile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/lockfile/linklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/lockfile/mkdirlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/lockfile/pidlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/lockfile/sqlitelockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/lockfile/symlinklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/ordereddict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/packaging/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/packaging/_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/packaging/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/packaging/specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/packaging/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/packaging/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/progress/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/progress/bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/progress/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/progress/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/progress/spinner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/pyparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/re-vendor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/packages/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/retrying.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/webencodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/webencodings/labels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/webencodings/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/basecommand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/baseparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/cmdoptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/completion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/commands/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/compat/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/compat/dictconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/locations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/models/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/operations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/operations/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/operations/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/req/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/req/req_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/req/req_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/req/req_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/req/req_uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/deprecation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/filesystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/glibc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/hashes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/outdated.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/packaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/setuptools_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/utils/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/vcs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/vcs/bazaar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/vcs/git.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/vcs/mercurial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/vcs/subversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg/pip/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Pong$pong.coverage" NAME="pong Coverage Results" MODIFIED="1524974448007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mp4" />
+    <SUITE FILE_PATH="coverage/Pong$QLearning.coverage" NAME="QLearning Coverage Results" MODIFIED="1524865652284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mp4" />
+    <SUITE FILE_PATH="coverage/Pong$BehavioralCloning.coverage" NAME="BehavioralCloning Coverage Results" MODIFIED="1525159121396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mp4" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mp4/pong.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#166#187#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mp4/QLearning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mp4/QLearningGUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mp4/PongPlayer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#166#187#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mp4/BehavioralCloning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="223" selection-start-line="223" selection-end-line="223" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>over</find>
+      <find>X</find>
+      <find>passed</find>
+      <find>expert_data</find>
+      <find>racache2</find>
+      <find>argmax</find>
+      <find>batch</find>
+      <find>forward_B</find>
+      <find>global_class</find>
+      <find>np.</find>
+      <find>max_hit</find>
+      <find>refresh</find>
+      <find>plot</find>
+      <find>g</find>
+      <find>get_table</find>
+      <find>print</find>
+      <find>------</find>
+      <find>q_table</find>
+      <find>label</find>
+      <find>computer</find>
+      <find>left</find>
+      <find>reset_paddle</find>
+      <find>max</find>
+      <find>converge</find>
+      <find>count</find>
+      <find />
+      <find>over`</find>
+      <find>loss</find>
+      <find>overflow</find>
+      <find>player</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/venv/lib/python3.6/site-packages/pyalgs/data_structures/commons/queue.py" />
+        <option value="$PROJECT_DIR$/mp4/QLearningGUI.py" />
+        <option value="$PROJECT_DIR$/mp4/expertdata.txt" />
+        <option value="$PROJECT_DIR$/mp4/Qtable" />
+        <option value="$PROJECT_DIR$/mp4/pong.py" />
+        <option value="$PROJECT_DIR$/mp4/BC.py" />
+        <option value="$PROJECT_DIR$/mp4/AiPong.py" />
+        <option value="$PROJECT_DIR$/mp4/PongPlayer.py" />
+        <option value="$PROJECT_DIR$/mp4/QLearning.py" />
+        <option value="$PROJECT_DIR$/mp4/BehavioralCloning.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="983" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pong" type="462c0819:PsiDirectoryNode" />
+              <item name="mp4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/venv/lib/python3.6/site-packages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pong">
+    <configuration name="BehavioralCloning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mp4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mp4/BehavioralCloning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PongPlayer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mp4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mp4/PongPlayer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QLearning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mp4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mp4/QLearning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mp4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mp4/pong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.QLearning" />
+      <item itemvalue="Python.pong" />
+      <item itemvalue="Python.BehavioralCloning" />
+      <item itemvalue="Python.PongPlayer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pong" />
+        <item itemvalue="Python.BehavioralCloning" />
+        <item itemvalue="Python.PongPlayer" />
+        <item itemvalue="Python.QLearning" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b928f44-680d-4aec-97ce-b3ea9fff5e90" name="Default" comment="" />
+      <created>1524446532972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524446532972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="988" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16974169" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.40861467" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32945284" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32945284" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32945284" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32945284" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50106835" side_tool="true" weight="0.3116279" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32906976" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.8614865" weight="0.29829243" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32959402" />
+      <window_info anchor="right" x="0" y="0" width="430" height="827" id="Documentation" order="5" sideWeight="0.13851352" side_tool="true" weight="0.29829243" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/pyalgs/data_structures/commons/queue.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24855">
+          <caret line="1657" selection-start-line="1657" selection-end-line="1657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1407268481/builtins.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/numpy/lib/npyio.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/numpy/lib/format.py" />
+    <entry file="file://$PROJECT_DIR$/mp4/expertdata.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149440">
+          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mp4/Qtable">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124545">
+          <caret line="8303" column="41" selection-start-line="8303" selection-start-column="41" selection-end-line="8303" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/matplotlib/pyplot.py" />
+    <entry file="file://$PROJECT_DIR$/mp4/BC.py" />
+    <entry file="file://$PROJECT_DIR$/mp4/AiPong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="151" column="18" lean-forward="true" selection-start-line="151" selection-start-column="18" selection-end-line="151" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mp4/BehavioralCloning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mp4/pong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#166#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mp4/QLearning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mp4/QLearningGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mp4/PongPlayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#166#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
